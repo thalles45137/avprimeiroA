@@ -1,0 +1,23 @@
+body {
+    background-image: url("ferrari-f8-tributo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+   h1 {
+       text-align: center;
+       color: rgb(255, 255, 255);
+       font-size: 100px;
+   }
+   .botao{
+       background-color: rgb(255, 255, 255);
+       color: rgb(255, 255, 255);
+       border: none;
+       text-align: center;
+       padding: 50px 50px;
+       display: inline-block;
+       cursor: pointer;
+   }
+   li{
+       font-size: 30px;
+       color: rgb(255, 255, 255);
+   }
