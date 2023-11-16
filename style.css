@@ -26,14 +26,3 @@ body {
        font-size: 30px;
        color: rgb(255, 255, 255);
    }
-   .primi{
-    position: top;
-    font-size: 25px;
-    color: aliceblue;
-   }
-   .segund{
-    position: top 0%;
-    font-size: 25px;
-    color: aliceblue;
-    text-align: right 20%;
-   }
