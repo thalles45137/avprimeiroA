@@ -28,6 +28,9 @@ body {
    }
    .primi{
     position: top;
-    font-size: 20px;
+    font-size: 25px;
     color: aliceblue;
+   }
+   .segund{
+    position: top;
    }
