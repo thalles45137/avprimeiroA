@@ -8,6 +8,11 @@ body {
        color: rgb(255, 255, 255);
        font-size: 100px;
    }
+   P{
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+   }
    .botao{
        background-color: rgb(255, 255, 255);
        color: rgb(255, 255, 255);
